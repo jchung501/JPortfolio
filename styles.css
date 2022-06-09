@@ -1,0 +1,13 @@
+* {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+#navbarDropdownMenuLink {
+    font-weight: bolder !important;
+}
+
+.port-header > h1 {
+    text-align: center !important;
+    justify-content: center !important;
+    margin-top: 2% !important;
+}
