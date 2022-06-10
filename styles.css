@@ -20,6 +20,22 @@
     margin-top: 25vh;
 }
 
+.about-main {
+  height: 50%;
+  width: 100vw;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  size: 400px;
+  flex-direction: column;
+}
+
+.about-main > .about-me {
+  width: 600px;
+  height: 50%;
+  margin-top: 5%;
+}
+
 .animate-charcter
 {
    /* text-transform: uppercase; */
