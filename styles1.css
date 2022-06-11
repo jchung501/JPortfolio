@@ -1,0 +1,84 @@
+* {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.masthead {
+  position: relative;
+  width: 100vw;
+  height: auto;
+  min-height: 35rem;
+  padding: 15rem 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.7) 75%, #000 100%), url(https://c1.wallpaperflare.com/preview/326/169/157/black-and-white-clouds-dark-dark-clouds.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+/* #navbarDropdownMenuLink {
+    font-weight: bolder !important;
+    font-size: 24px !important;
+} */
+
+/* .port-header > h1 {
+    text-align: center !important;
+    justify-content: center !important;
+    margin-top: 2% !important;
+}
+
+.port-main {
+    justify-content: center !important;
+    justify-items: center !important;
+    text-align: center !important;
+    margin-top: 30vh;
+} */
+
+/* .about-main {
+  height: 50%;
+  width: 100vw;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  size: 400px;
+  flex-direction: column;
+}
+
+.about-main > .about-me {
+  width: 600px;
+  height: 50%;
+  margin-top: 5%;
+} */
+
+.animate-charcter
+{
+   /* text-transform: uppercase; */
+  background-image: linear-gradient(
+    -225deg,
+    #7BDFF2 0%,
+    #B2F7EF 29%,
+    #EFF7F6 61%,
+    #F7D6E0 83%,
+    #F2B5D4 100%
+    /* #DDC4DD 0%,
+    #DCCFEC 29%,
+    #A997DF 61%,
+    #4F517D 83%,
+    #1A3A3A 100% */
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 3s linear infinite;
+  display: inline-block;
+      font-size: 190px;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
