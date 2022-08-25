@@ -9856,9 +9856,9 @@ textarea.form-control-lg {
     margin-right: auto !important;
   }
 
-  .mb-lg-0 {
+  /* .mb-lg-0 {
     margin-bottom: 0 !important;
-  }
+  } */
 
   .mb-lg-1 {
     margin-bottom: 0.25rem !important;
