@@ -11724,7 +11724,7 @@ body {
   -webkit-text-fill-color: transparent;
   animation: textclip 3s linear infinite;
   display: inline-block;
-      font-size: 190px;
+      font-size: 150px;
 }
 
 @keyframes textclip {
